@@ -1259,100 +1259,218 @@
       "day": 50,
       "variant": null,
       "slug": "050",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-08",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2086033824488837121/img/h7ZdvCHPxsH254_k.jpg",
+      "style_name": "Whimsical hand-drawn fantasy concept art, ink and watercolor illustration",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "There's a fun little survival story ahead with a few twists along the way.",
+      "creator_notes": "The animal world, especially the little creatures we see around us every day, is always an endless source of inspiration. First trial of the @invideoOfficial Agent two with Seedance 2.0.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "invideoOfficial"
+          ],
+          "role": "agent_two_trial"
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2086034685302554822",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "ink-watercolor",
+      "curator_notes": "Nome do estilo veio truncado com reticências no post.",
+      "open_on_x": "https://x.com/NVTDanh/status/2086034685302554822"
     },
     {
       "id": "051",
       "day": 51,
       "variant": null,
       "slug": "051",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-09",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2086390531941445632/img/BXqDGY0YpvTUxO6e.jpg",
+      "style_name": "...",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Back to the kids' drawing style.",
+      "creator_notes": "Who would've thought these simple doodles and still images could turn into such fun videos? Images by a creator on Midjourney (author still looking for the account).",
+      "tools": [
+        {
+          "name": "Seedance 2.0 Mini",
+          "handles": [
+            "wavespeed_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2086399591386390809",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "kids-drawing",
+      "curator_notes": "Estilo não nomeado no post.",
+      "open_on_x": "https://x.com/NVTDanh/status/2086399591386390809"
     },
     {
       "id": "052",
       "day": 52,
       "variant": null,
       "slug": "052",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-10",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2086773315734233088/img/dkTZyFhuKgpnBMkq.jpg",
+      "style_name": "Chinese Mythical Fantasy Animation",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
-      "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "logline": "A mysterious masked stranger rescues a princess from a tower high above.",
+      "creator_notes": "Is this the beginning of a tragedy… or the joy of freedom? Let's find out in Trailer 1. Big thanks to @TechieBySA for inspiring the prompt behind this style of movement.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
+      "inspiration": [
+        {
+          "type": "mention",
+          "handle": "TechieBySA",
+          "name": null,
+          "work": null,
+          "post_url": null,
+          "quote": null,
+          "text": null,
+          "day": null,
+          "note": null
+        }
+      ],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2086774974921200055",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": "Reply de prompt existe no fio; URL não capturada nesta leva."
+        }
+      ],
+      "curator_style_family": "chinese-mythic",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2086774974921200055"
     },
     {
       "id": "053",
       "day": 53,
       "variant": null,
       "slug": "053",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-11",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2087135063117070336/img/NOb0z_G4_UeYrGg2.jpg",
+      "style_name": "Claymation art style",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
-      "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "logline": "Saving the world one mouse click at a time, why not?",
+      "creator_notes": "Sometimes, even small actions like these can be a fun way to teach kids something meaningful. Inspired by @whorange__.",
+      "tools": [
+        {
+          "name": "Seedance 2.5",
+          "handles": [
+            "Flovaai",
+            "Flovaai_Japan"
+          ],
+          "role": null
+        }
+      ],
+      "inspiration": [
+        {
+          "type": "mention",
+          "handle": "whorange__",
+          "name": null,
+          "work": null,
+          "post_url": null,
+          "quote": null,
+          "text": null,
+          "day": null,
+          "note": "mouse cursor series"
+        }
+      ],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2087136406334484716",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "claymation",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2087136406334484716"
     },
     {
       "id": "054",
       "day": 54,
       "variant": null,
       "slug": "054",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-12",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2087506891874426880/img/ht_I3--u8piPj-zg.jpg",
+      "style_name": "Painterly Low-Poly Comic Art",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "The city is falling into chaos. Police close in. The crowd fights back.",
+      "creator_notes": "But what caused this uprising in the first place? Could AI somehow be involved?",
+      "tools": [
+        {
+          "name": "Seedance 2.5",
+          "handles": [],
+          "role": null
+        },
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "Flovaai",
+            "Flovaai_Japan"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2087507979969220810",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "low-poly-comic",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2087507979969220810"
     },
     {
       "id": "055",
@@ -1410,20 +1528,48 @@
       "day": 56,
       "variant": null,
       "slug": "056",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-14",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2088225308868857856/img/6o1_HeUprNbUlp2l.jpg",
+      "style_name": "Stylized 2D hand-painted storybook animation",
       "style_name_extra": null,
-      "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
-      "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "prompt_published": "modern Western animation character design, painterly gouache texture, bold graphic shapes, minimal linework, warm cinematic colors, expressive proportions, handcrafted illustration feel (for Midjourney)",
+      "logline": "A young Greek man saves a princess on the streets of ancient China… but what are they doing here?",
+      "creator_notes": "Let's find out in the first trailer. Thanks @whorange__ for sharing the --sref 374636695.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "Hailuo_AI"
+          ],
+          "role": null
+        }
+      ],
+      "inspiration": [
+        {
+          "type": "mention",
+          "handle": "whorange__",
+          "name": null,
+          "work": null,
+          "post_url": null,
+          "quote": null,
+          "text": null,
+          "day": null,
+          "note": "--sref 374636695"
+        }
+      ],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2088226323651244171",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "storybook-2d",
+      "curator_notes": "Prompt chinês mencionado; texto do prompt de vídeo não capturado.",
+      "open_on_x": "https://x.com/NVTDanh/status/2088226323651244171"
     },
     {
       "id": "057",
@@ -1480,100 +1626,205 @@
       "day": 58,
       "variant": null,
       "slug": "058",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-16",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2088947258935177216/img/XlxRdzURarhtXa5Q.jpg",
+      "style_name": "Stylized Claymation + 3D animated caricature",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "This style combined with the music makes everything feel a lot funnier, even though the battle itself is pretty intense.",
+      "creator_notes": "And the warrior's journey of revenge has only just begun.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [],
+          "role": null
+        },
+        {
+          "name": "Seedance 2.5",
+          "handles": [
+            "capcutapp",
+            "capcut_vn"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2088948534532018249",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "claymation",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2088948534532018249"
     },
     {
       "id": "059",
       "day": 59,
       "variant": null,
       "slug": "059",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-17",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2089322357156638721/img/uK5YviB2xS4w0jUC.jpg",
+      "style_name": "Retro Editorial Cartoon / Mid-Century Storybook Illustration",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Escaping from a maximum-security prison is never easy. And surviving after the escape? That might be even harder.",
+      "creator_notes": "Here's the beginning of the story. Just like the escape itself, making this video took me a seriously long time.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2089322509263073784",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": "Autor disse no fio que não tem um prompt exato por causa da edição."
+        }
+      ],
+      "curator_style_family": "editorial-cartoon",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2089322509263073784"
     },
     {
       "id": "060",
       "day": 60,
       "variant": null,
       "slug": "060",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-18",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2089674574506110976/img/SUxvWrZdd5KexlG4.jpg",
+      "style_name": "Whimsical hand-painted storybook illustration",
       "style_name_extra": null,
-      "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "prompt_published": "stylized animation concept art, exaggerated caricature proportions, angular imperfect shapes, loose expressive brushwork, gouache texture, vibrant Mediterranean colors, quirky handcrafted aesthetic (for Midjourney prompt)",
+      "logline": "Day 60 and today I decided to take it easy and have some fun with a few weird and quirky movements.",
+      "creator_notes": "Let's just relax and enjoy the weirdness together.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "Hailuo_AI"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2089675418878329009",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "whimsical-storybook",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2089675418878329009"
     },
     {
       "id": "061",
       "day": 61,
       "variant": null,
       "slug": "061",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-19",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2090037675566997504/img/T3XQpHa9TujhyYBO.jpg",
+      "style_name": "Stylized Sci-Fi Concept Art / Graphic-Novel Character Design + Anime + Western Comic + Dieselpunk/Cyberpunk",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
+      "logline": "The characters are already there. The worlds are already built. Now you bring the imagination.",
+      "creator_notes": "Showrunner of @fableshowrunner. My own films are now officially available on the Showrunner IOS app.",
       "tools": [],
-      "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "inspiration": [
+        {
+          "type": "mention",
+          "handle": "fableshowrunner",
+          "name": null,
+          "work": null,
+          "post_url": null,
+          "quote": null,
+          "text": null,
+          "day": null,
+          "note": "App Showrunner"
+        }
+      ],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2090039532016296314",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "scifi-graphic-novel",
+      "curator_notes": "Post é anúncio/remix no Showrunner, não nomeia ferramenta de vídeo.",
+      "open_on_x": "https://x.com/NVTDanh/status/2090039532016296314"
     },
     {
       "id": "062",
       "day": 62,
       "variant": null,
       "slug": "062",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-20",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2090400705131708416/img/u7T2sohpAEc0GtH1.jpg",
+      "style_name": "Stylized Arabian Folk Art / Modernist Storybook Illustration",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "A mysterious courier rides a magic carpet through the city, carrying countless letters—and countless secrets.",
+      "creator_notes": "An Arabian night filled with haunting music. What lies behind those letters will slowly be revealed. Here's a short teaser from my new show.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "capcutapp",
+            "capcut_vn"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2090400991002952027",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": "Reply de prompt existe no fio; URL não capturada nesta leva."
+        }
+      ],
+      "curator_style_family": "arabian-folk",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2090400991002952027"
     },
     {
       "id": "063",

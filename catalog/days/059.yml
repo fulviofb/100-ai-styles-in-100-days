@@ -2,17 +2,32 @@ id: "059"
 day: 59
 variant: null
 slug: "059"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-17"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2089322357156638721/img/uK5YviB2xS4w0jUC.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: Retro Editorial Cartoon / Mid-Century Storybook Illustration
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: Escaping from a maximum-security prison is never easy. And surviving after the escape? That might be even harder.
+creator_notes: >-
+  Here's the beginning of the story. Just like the escape itself, making
+  this video took me a seriously long time.
+tools:
+  - name: Seedance 2.0
+    handles:
+      - dreamina_ai
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2089322509263073784
+    embed: true
+    source_review: reviewed
+  - role: prompt
+    post_url: null
+    source_review: discovered_needs_original_review
+    note: Autor disse no fio que não tem um prompt exato por causa da edição.
 curator:
-  style_family: null
+  style_family: editorial-cartoon
   notes: null

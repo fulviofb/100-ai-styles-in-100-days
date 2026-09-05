@@ -2,17 +2,29 @@ id: "051"
 day: 51
 variant: null
 slug: "051"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-09"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2086390531941445632/img/BXqDGY0YpvTUxO6e.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: "..."
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: Back to the kids' drawing style.
+creator_notes: >-
+  Who would've thought these simple doodles and still images could turn into
+  such fun videos? Images by a creator on Midjourney (author still looking
+  for the account).
+tools:
+  - name: Seedance 2.0 Mini
+    handles:
+      - wavespeed_ai
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2086399591386390809
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
-  notes: null
+  style_family: kids-drawing
+  notes: Estilo não nomeado no post.

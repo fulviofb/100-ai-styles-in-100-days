@@ -2,17 +2,32 @@ id: "056"
 day: 56
 variant: null
 slug: "056"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-14"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2088225308868857856/img/6o1_HeUprNbUlp2l.jpg
+poster_source: x_video_thumb
 style:
-  name: null
-  prompt_published: null
-logline: null
-creator_notes: null
-tools: []
-inspiration: []
-thread: []
+  name: Stylized 2D hand-painted storybook animation
+  prompt_published: >-
+    modern Western animation character design, painterly gouache texture,
+    bold graphic shapes, minimal linework, warm cinematic colors, expressive
+    proportions, handcrafted illustration feel (for Midjourney)
+logline: A young Greek man saves a princess on the streets of ancient China… but what are they doing here?
+creator_notes: Let's find out in the first trailer. Thanks @whorange__ for sharing the --sref 374636695.
+tools:
+  - name: Seedance 2.0
+    handles:
+      - Hailuo_AI
+inspiration:
+  - type: mention
+    handle: whorange__
+    note: "--sref 374636695"
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2088226323651244171
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
-  notes: null
+  style_family: storybook-2d
+  notes: Prompt chinês mencionado; texto do prompt de vídeo não capturado.

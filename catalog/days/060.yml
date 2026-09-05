@@ -2,17 +2,29 @@ id: "060"
 day: 60
 variant: null
 slug: "060"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-18"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2089674574506110976/img/SUxvWrZdd5KexlG4.jpg
+poster_source: x_video_thumb
 style:
-  name: null
-  prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+  name: Whimsical hand-painted storybook illustration
+  prompt_published: >-
+    stylized animation concept art, exaggerated caricature proportions,
+    angular imperfect shapes, loose expressive brushwork, gouache texture,
+    vibrant Mediterranean colors, quirky handcrafted aesthetic (for Midjourney prompt)
+logline: Day 60 and today I decided to take it easy and have some fun with a few weird and quirky movements.
+creator_notes: Let's just relax and enjoy the weirdness together.
+tools:
+  - name: Seedance 2.0
+    handles:
+      - Hailuo_AI
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2089675418878329009
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
+  style_family: whimsical-storybook
   notes: null

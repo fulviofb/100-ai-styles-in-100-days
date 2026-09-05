@@ -2,17 +2,28 @@ id: "061"
 day: 61
 variant: null
 slug: "061"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-19"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2090037675566997504/img/T3XQpHa9TujhyYBO.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: Stylized Sci-Fi Concept Art / Graphic-Novel Character Design + Anime + Western Comic + Dieselpunk/Cyberpunk
   prompt_published: null
-logline: null
-creator_notes: null
+logline: The characters are already there. The worlds are already built. Now you bring the imagination.
+creator_notes: >-
+  Showrunner of @fableshowrunner. My own films are now officially available
+  on the Showrunner IOS app.
 tools: []
-inspiration: []
-thread: []
+inspiration:
+  - type: mention
+    handle: fableshowrunner
+    note: App Showrunner
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2090039532016296314
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
-  notes: null
+  style_family: scifi-graphic-novel
+  notes: Post é anúncio/remix no Showrunner, não nomeia ferramenta de vídeo.

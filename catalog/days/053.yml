@@ -2,17 +2,32 @@ id: "053"
 day: 53
 variant: null
 slug: "053"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-11"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2087135063117070336/img/NOb0z_G4_UeYrGg2.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: Claymation art style
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
-inspiration: []
-thread: []
+logline: Saving the world one mouse click at a time, why not?
+creator_notes: >-
+  Sometimes, even small actions like these can be a fun way to teach kids
+  something meaningful. Inspired by @whorange__.
+tools:
+  - name: Seedance 2.5
+    handles:
+      - Flovaai
+      - Flovaai_Japan
+inspiration:
+  - type: mention
+    handle: whorange__
+    note: mouse cursor series
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2087136406334484716
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
+  style_family: claymation
   notes: null

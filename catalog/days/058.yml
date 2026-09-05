@@ -2,17 +2,28 @@ id: "058"
 day: 58
 variant: null
 slug: "058"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-16"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2088947258935177216/img/XlxRdzURarhtXa5Q.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: Stylized Claymation + 3D animated caricature
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: This style combined with the music makes everything feel a lot funnier, even though the battle itself is pretty intense.
+creator_notes: And the warrior's journey of revenge has only just begun.
+tools:
+  - name: Seedance 2.0
+  - name: Seedance 2.5
+    handles:
+      - capcutapp
+      - capcut_vn
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2088948534532018249
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
+  style_family: claymation
   notes: null
