@@ -215,100 +215,242 @@
       "day": 11,
       "variant": null,
       "slug": "011",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-06-30",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2071915231794561024/img/viD9dfZCLFRDydND.jpg",
+      "style_name": "Handmade Needle-Felt Fantasy",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "Let the child within us come alive!!!!!",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Kinovi",
+          "handles": [
+            "kinovi_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2071915398946255022",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2071915398946255022"
     },
     {
       "id": "012",
       "day": 12,
       "variant": null,
       "slug": "012",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-01",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2072275086409912320/img/aHTh5xH5AaL4_5Dx.jpg",
+      "style_name": "Whimsical Watercolor Storybook",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "What if your entire world was nothing more than a painting inside a book?",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Kinovi",
+          "handles": [
+            "kinovi_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2072275666767323390",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2072275666767323390"
     },
     {
       "id": "013",
       "day": 13,
       "variant": null,
       "slug": "013",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-02",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2072636849303252992/img/qjbta_CUcxwcrlNW.jpg",
+      "style_name": "Hand-drawn sketch",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "The strange things that seem possible only in a child's imagination often become the most fascinating experiences for adults.",
+      "creator_notes": "Created with @kinovi_ai. Thank you, @Artedeingenio, for always sharing the beautiful moments of childhood through your incredible artistry.",
+      "tools": [
+        {
+          "name": "Kinovi",
+          "handles": [
+            "kinovi_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2072637077133631608",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2072637077133631608"
     },
     {
       "id": "014",
       "day": 14,
       "variant": null,
       "slug": "014",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-03",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2073000233966161920/img/Oped7dwiszw2rBVZ.jpg",
+      "style_name": "Classic European fairy tale illustration",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "A forgotten room. An ancient mirror. A ballet no one should ever finish.",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Pollo",
+          "handles": [
+            "itsPolloAI"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2073001383599730900",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2073001383599730900"
     },
     {
       "id": "015",
       "day": 15,
       "variant": null,
       "slug": "015",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-04",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2073263400403283968/img/LXy7XigGvbHnP4DG.jpg",
+      "style_name": "Stylized Graphic Editorial Illustration",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "Green light doesn't always mean \"go\". Even a Formula 1 car waits for an elderly man to cross the road.",
       "creator_notes": null,
       "tools": [],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2073362686117912579",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2073362686117912579"
     },
     {
       "id": "016",
@@ -575,40 +717,102 @@
       "day": 29,
       "variant": null,
       "slug": "029",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-18",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2078414814880415744/img/SLGfFB2MHYHrfvNi.jpg",
+      "style_name": "ligne claire art style",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "A young detective's TOP SECRET file is stolen by a pigeon... What could be inside, and why would a pigeon steal it?",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "WaveSpeed",
+          "handles": [
+            "wavespeed_ai",
+            "HiWscreator"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2078435865043353602",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2078435865043353602"
     },
     {
       "id": "030",
       "day": 30,
       "variant": null,
       "slug": "030",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-19",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2078794562550865920/img/Q6UDjUJgbRdagsjv.jpg",
+      "style_name": "Franco-Belgian comics",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "A mysterious chase along the railway.",
+      "creator_notes": "Classic action shots, recreated in the timeless style of early 20th-century animation.",
+      "tools": [
+        {
+          "name": "Seedance 2.0 Fast",
+          "handles": [
+            "capcut_vn",
+            "capcutapp"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2078799510868824464",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2078799510868824464"
     },
     {
       "id": "031",
@@ -775,20 +979,50 @@
       "day": 39,
       "variant": null,
       "slug": "039",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-28",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2082068207700246528/img/1HIhuwQ8PozWjX0A.jpg",
+      "style_name": "(I don't know)",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Practice makes perfect. But perfection creates either a legend... or a monster.",
+      "creator_notes": "Stay tuned for something exciting.",
+      "tools": [
+        {
+          "name": "Seedance 2.0 Fast",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2082069155277398400",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2082069155277398400"
     },
     {
       "id": "040",
@@ -895,20 +1129,50 @@
       "day": 45,
       "variant": null,
       "slug": "045",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-03",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2084239115898531840/img/S4ymS3SBaMJE8HWQ.jpg",
+      "style_name": "Painterly Storybook Fantasy",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "A boy rides an old dragon straight into the demon citadel... But his true objective is far greater than defeating the demons.",
+      "creator_notes": "Part 1 is out now.",
+      "tools": [
+        {
+          "name": "Seedance 2.5",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2084240775794352372",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2084240775794352372"
     },
     {
       "id": "046",
@@ -1095,20 +1359,51 @@
       "day": 55,
       "variant": null,
       "slug": "055",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-13",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2087860895619878912/img/5sUZPKU3FmAAyC_-.jpg",
+      "style_name": "...",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Training with the boy before he takes on a much tougher real challenge.",
+      "creator_notes": "Experimenting with Chinese prompts in Seedance 2.5 — and I've also dropped two Seedance 2.0 videos in the comments below.",
+      "tools": [
+        {
+          "name": "Seedance 2.5",
+          "handles": [
+            "itsPolloAI",
+            "polloai_creator"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2087861876541833396",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "curator_notes": "O autor não nomeou o estilo neste dia.",
+      "open_on_x": "https://x.com/NVTDanh/status/2087861876541833396"
     },
     {
       "id": "056",
@@ -1135,20 +1430,50 @@
       "day": 57,
       "variant": null,
       "slug": "057",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-15",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2088580955292471296/img/7RFTVoSNW515nMEM.jpg",
+      "style_name": "....",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "A little mage, hundreds of wandering spirits, and one goal — keep climbing. Higher. Higher. Higher. Something is waiting at the top.",
+      "creator_notes": "Chinese prompting has been surprisingly effective for me so far. Made with Seedance 2.5 using a Chinese prompt (Day 3) from the comments.",
+      "tools": [
+        {
+          "name": "Seedance 2.5",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2088583983168725003",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "curator_notes": "O autor não nomeou o estilo neste dia.",
+      "open_on_x": "https://x.com/NVTDanh/status/2088583983168725003"
     },
     {
       "id": "058",

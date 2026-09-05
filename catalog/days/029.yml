@@ -2,17 +2,35 @@ id: "029"
 day: 29
 variant: null
 slug: "029"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-07-18"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2078414814880415744/img/SLGfFB2MHYHrfvNi.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: ligne claire art style
   prompt_published: null
-logline: null
+logline: >-
+  A young detective's TOP SECRET file is stolen by a pigeon... What could
+  be inside, and why would a pigeon steal it?
 creator_notes: null
-tools: []
+tools:
+  - name: WaveSpeed
+    handles:
+      - wavespeed_ai
+      - HiWscreator
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2078435865043353602
+    embed: true
+    source_review: reviewed
+  - role: midjourney_sheets
+    post_url: null
+    source_review: discovered_needs_original_review
+  - role: prompt
+    post_url: null
+    source_review: discovered_needs_original_review
 curator:
   style_family: null
   notes: null

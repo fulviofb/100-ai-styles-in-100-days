@@ -2,17 +2,35 @@ id: "055"
 day: 55
 variant: null
 slug: "055"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-13"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2087860895619878912/img/5sUZPKU3FmAAyC_-.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: "..."
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: Training with the boy before he takes on a much tougher real challenge.
+creator_notes: >-
+  Experimenting with Chinese prompts in Seedance 2.5 — and I've also dropped
+  two Seedance 2.0 videos in the comments below.
+tools:
+  - name: Seedance 2.5
+    handles:
+      - itsPolloAI
+      - polloai_creator
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2087861876541833396
+    embed: true
+    source_review: reviewed
+  - role: midjourney_sheets
+    post_url: null
+    source_review: discovered_needs_original_review
+  - role: prompt
+    post_url: null
+    source_review: discovered_needs_original_review
 curator:
   style_family: null
-  notes: null
+  notes: O autor não nomeou o estilo neste dia.
