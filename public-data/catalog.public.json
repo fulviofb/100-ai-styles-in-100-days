@@ -1580,20 +1580,50 @@
       "day": 63,
       "variant": null,
       "slug": "063",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-21",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2090811991367852032/img/b14hqU7XwQMXQFrY.jpg",
+      "style_name": "Rough Blue-Pencil Animation Concept Art",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "What if your paper friends could take you anywhere?",
+      "creator_notes": "Just a little boy riding through the sky, exploring a magical world with his flying paper friends.",
+      "tools": [
+        {
+          "name": "MiniMax / Hailuo",
+          "handles": [
+            "Hailuo_AI"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2090813051377217553",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
+      "curator_style_family": "blue-pencil",
+      "curator_notes": "Sem bloco de estilo entre parênteses neste post.",
+      "open_on_x": "https://x.com/NVTDanh/status/2090813051377217553"
     },
     {
       "id": "064",
