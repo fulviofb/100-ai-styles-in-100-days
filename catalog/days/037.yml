@@ -2,17 +2,30 @@ id: "037"
 day: 37
 variant: null
 slug: "037"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-07-26"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2081319820499546112/img/yCOhJvmqATq737dg.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: Modern Ukiyo-e Illustration ++
   prompt_published: null
-logline: null
+logline: Is the old artist really the one painting these masterpieces... or does someone quietly finish them every night after he falls asleep?
 creator_notes: null
-tools: []
+tools:
+  - name: Seedance 2.0 Fast
+    handles:
+      - dreamina_ai
+  - name: CapCut
+    handles:
+      - capcut_vn
+      - capcutapp
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2081336225802441005
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
+  style_family: ukiyo-e
   notes: null

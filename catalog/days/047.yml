@@ -2,17 +2,28 @@ id: "047"
 day: 47
 variant: null
 slug: "047"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-05"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2084962720940699648/img/L73vhWwEGm_B8Zvg.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: "..."
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: Tactical formations. Coordinated takedowns. Iconic action-movie moments.
+creator_notes: Recreating classic police pursuit and arrest scenes with AI.
+tools:
+  - name: Seedance 2.5
+  - name: Seedance 2.0
+    handles:
+      - capcutapp
+      - capcut_vn
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2084963116723654713
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
-  notes: null
+  style_family: action-movie
+  notes: Estilo não nomeado.

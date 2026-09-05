@@ -819,160 +819,341 @@
       "day": 31,
       "variant": null,
       "slug": "031",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-20",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2079165586882646016/img/Ve2F07DiydvEmCSs.jpg",
+      "style_name": "Architectural Expressionism (Modern German Expressionism-inspired)",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "The boy keeps climbing, parkouring his way toward higher and higher levels.",
+      "creator_notes": "Yet the higher he goes, the more enormous the city becomes. What could possibly be waiting at the very top?",
+      "tools": [
+        {
+          "name": "Seedance 2.0 Fast",
+          "handles": [
+            "hailuoai",
+            "Hailuo_AI"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2079165785780691356",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": "https://x.com/NVTDanh/status/2079181576278253661",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": "Midjourney images --profile dzk1sty"
+        }
+      ],
+      "curator_style_family": "expressionism",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2079165785780691356"
     },
     {
       "id": "032",
       "day": 32,
       "variant": null,
       "slug": "032",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-21",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2079524905243303936/img/Q-jCA7KRImnpFmQR.jpg",
+      "style_name": "Genndy Tartakovsky's style",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Before every landing, there always has to be an epic one-shot camera sequence aboard the pirate ship.",
+      "creator_notes": "Stay tuned for the full version. Images with Midjourney v7 on Flova.",
+      "tools": [
+        {
+          "name": "Seedance 2.0 Fast",
+          "handles": [
+            "Flovaai"
+          ],
+          "role": null
+        },
+        {
+          "name": "Midjourney v7",
+          "handles": [
+            "Flovaai_Japan"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2079525235771244972",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "tartakovsky",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2079525235771244972"
     },
     {
       "id": "033",
       "day": 33,
       "variant": null,
       "slug": "033",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-22",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2079889178243002368/img/1gHV6Qz-8QzESQeD.jpg",
+      "style_name": "90s anime style",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "TENET isn't about playing a video backward. It's about making reverse motion feel like the natural law of the world.",
+      "creator_notes": "That's the challenge I'm trying to recreate with AI.",
+      "tools": [
+        {
+          "name": "Hailuo",
+          "handles": [
+            "Hailuo_AI"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2079889868319330489",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "90s-anime",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2079889868319330489"
     },
     {
       "id": "034",
       "day": 34,
       "variant": null,
       "slug": "034",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-23",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2080250358878924800/img/2fuE-lHz_IrnlWbt.jpg",
+      "style_name": "Mixed",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Paint Boy vs. the Paper Kingdom",
+      "creator_notes": "Felt like a classic childhood game where you rescue the princess.",
+      "tools": [
+        {
+          "name": "Flova",
+          "handles": [
+            "Flovaai",
+            "Flovaai_Japan"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2080250614181970430",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "mixed-paint",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2080250614181970430"
     },
     {
       "id": "035",
       "day": 35,
       "variant": null,
       "slug": "035",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-24",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2080615075338227712/img/JcWtz3Q9Lo_Brgd9.jpg",
+      "style_name": "1990s American superhero cartoon",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Is this really just a playful game between an astronaut and a robot dog?",
+      "creator_notes": "What is the glowing sphere they're chasing?",
+      "tools": [
+        {
+          "name": "Seedance 2.0 Fast",
+          "handles": [
+            "capcut_vn",
+            "capcutapp"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2080615217222889873",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": "https://x.com/NVTDanh/status/2080626219792646179",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": "Midjourney images --profile dzk1sty"
+        }
+      ],
+      "curator_style_family": "90s-cartoon",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2080615217222889873"
     },
     {
       "id": "036",
       "day": 36,
       "variant": null,
       "slug": "036",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-25",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2080961833293541377/img/g8p9niY9bsDKLuVd.jpg",
+      "style_name": "Same as day 14",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
-      "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "logline": "A mysterious room. A haunted mirror. And a few more plot twists.",
+      "creator_notes": "Huge thanks to @Artedeingenio. Created with @dreamina_ai and edited on CapCut.",
+      "tools": [
+        {
+          "name": "Dreamina",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        },
+        {
+          "name": "CapCut",
+          "handles": [
+            "capcut_vn",
+            "capcutapp"
+          ],
+          "role": null
+        }
+      ],
+      "inspiration": [
+        {
+          "type": "related_day",
+          "handle": null,
+          "name": null,
+          "work": null,
+          "post_url": null,
+          "quote": null,
+          "text": null,
+          "day": 14,
+          "note": "Classic European fairy tale illustration"
+        }
+      ],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2080973838289092871",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "fairy-tale",
+      "curator_notes": "Estilo = dia 14.",
+      "open_on_x": "https://x.com/NVTDanh/status/2080973838289092871"
     },
     {
       "id": "037",
       "day": 37,
       "variant": null,
       "slug": "037",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-26",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2081319820499546112/img/yCOhJvmqATq737dg.jpg",
+      "style_name": "Modern Ukiyo-e Illustration ++",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "Is the old artist really the one painting these masterpieces... or does someone quietly finish them every night after he falls asleep?",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Seedance 2.0 Fast",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        },
+        {
+          "name": "CapCut",
+          "handles": [
+            "capcut_vn",
+            "capcutapp"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2081336225802441005",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "ukiyo-e",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2081336225802441005"
     },
     {
       "id": "038",
       "day": 38,
       "variant": null,
       "slug": "038",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-27",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2081668642601877504/img/XpxJLFOi0flFuSfp.jpg",
+      "style_name": "A stylized low-poly illustration blended with multiple artistic styles",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Episode 1 — Two muscular fishermen battle over a giant great white shark.",
+      "creator_notes": "What's the fight for? What's the giant shark underneath?",
+      "tools": [
+        {
+          "name": "Seedance 2.0 Fast",
+          "handles": [
+            "capcutapp",
+            "capcut_vn"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2081698613638676484",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "low-poly",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2081698613638676484"
     },
     {
       "id": "039",
@@ -1049,80 +1230,203 @@
       "day": 41,
       "variant": null,
       "slug": "041",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-30",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2082786962109526016/img/9-Z1bCnti-DByQrM.jpg",
+      "style_name": "...",
+      "style_name_extra": null,
+      "prompt_published": "Ghibli-inspired hand-painted animation, soft watercolor textures, warm golden-hour lighting, whimsical adventure, cinematic composition, lush natural environments, expressive animation, smooth camera movement, feature animation quality",
+      "logline": "MiniMaxH3 feels like a kite soaring high in the sky. You can't help but reach for it.",
+      "creator_notes": "First experience with HailuoAI / MiniMax H3 early access. 7000-character prompt.",
+      "tools": [
+        {
+          "name": "MiniMax H3",
+          "handles": [
+            "Hailuo_AI"
+          ],
+          "role": null
+        }
+      ],
+      "inspiration": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2082787311818010979",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": "https://x.com/NVTDanh/status/2082788789718556963",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": "Long prompt (kite chase) no reply. Bloco copiavel veio do campo Style desse reply."
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": "https://x.com/NVTDanh/status/2082818385457680869",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": "MJ v7 images on HailuoAI"
+        }
+      ],
+      "curator_style_family": "ghibli-handpainted",
+      "curator_notes": "O post-heroi nao nomeia o estilo; o reply publica o bloco Ghibli.",
+      "open_on_x": "https://x.com/NVTDanh/status/2082787311818010979"
+    },
+    {
+      "id": "041a",
+      "day": 41,
+      "variant": "a",
+      "slug": "041a",
+      "source_review": "reviewed",
+      "date_utc": "2026-07-30",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2083008829181341697/img/TGQzc16wP4JjyCK_.jpg",
+      "style_name": "Needle-felt art style",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "No storyboard. No keyframes. Just one reference image and an endless underwater journey.",
+      "creator_notes": "MiniMax H3 keeps the adventure flowing.",
+      "tools": [
+        {
+          "name": "MiniMax H3",
+          "handles": [
+            "Hailuo_AI"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2083011011519627554",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "needle-felt",
+      "curator_notes": "Day 41.5",
+      "open_on_x": "https://x.com/NVTDanh/status/2083011011519627554"
     },
     {
       "id": "042",
       "day": 42,
       "variant": null,
       "slug": "042",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-31",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2083159044165140480/img/k2Har_7gh5xlNZ5m.jpg",
+      "style_name": "...",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Another mysterious letter must be delivered safely into the princess's hands. But what secret does it hold?",
+      "creator_notes": "Testing Seedance 2.5 with a fast-paced medieval chase sequence.",
+      "tools": [
+        {
+          "name": "Seedance 2.5",
+          "handles": [
+            "capcutapp",
+            "capcut_vn"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2083159160284467472",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "medieval-chase",
+      "curator_notes": "Estilo não nomeado.",
+      "open_on_x": "https://x.com/NVTDanh/status/2083159160284467472"
     },
     {
       "id": "043",
       "day": 43,
       "variant": null,
       "slug": "043",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-01",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2083389835218460672/img/8C-NSeFpHY7ZMjL2.jpg",
+      "style_name": "Claymation (video 1) and Stylized 3D animated feature film style (video 2)",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Thank you for bringing us this amazing experience!",
+      "creator_notes": "Two videos no mesmo post — claymation e 3D feature.",
+      "tools": [
+        {
+          "name": "MiniMax H3",
+          "handles": [
+            "Hailuo_AI"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2083496208430137353",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "claymation-3d",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2083496208430137353"
     },
     {
       "id": "044",
       "day": 44,
       "variant": null,
       "slug": "044",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-02",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2083834070900105216/img/7FTqqTyhTNc1hK1V.jpg",
+      "style_name": "Whimsical storybook illustration",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Dance belongs to everyone.",
+      "creator_notes": "Testing Seedance 2.5 (Round 2). --sref 1731732691",
+      "tools": [
+        {
+          "name": "Seedance 2.5",
+          "handles": [
+            "capcutapp",
+            "capcut_vn"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2083874199198965922",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": "https://x.com/NVTDanh/status/2083880061242122551",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": "MJ v8 images"
+        }
+      ],
+      "curator_style_family": "whimsical-storybook",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2083874199198965922"
     },
     {
       "id": "045",
@@ -1179,80 +1483,158 @@
       "day": 46,
       "variant": null,
       "slug": "046",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-04",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2084598927421235200/img/v6gxvQlW7wXYkKnv.jpg",
+      "style_name": "Pen-and-ink sketch",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "Still the Boy Commander… but this time, he's fighting an impossible battle to protect the last stronghold.",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "wavespeed_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2084599801740714452",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "pen-ink",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2084599801740714452"
     },
     {
       "id": "047",
       "day": 47,
       "variant": null,
       "slug": "047",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-05",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2084962720940699648/img/L73vhWwEGm_B8Zvg.jpg",
+      "style_name": "...",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Tactical formations. Coordinated takedowns. Iconic action-movie moments.",
+      "creator_notes": "Recreating classic police pursuit and arrest scenes with AI.",
+      "tools": [
+        {
+          "name": "Seedance 2.5",
+          "handles": [],
+          "role": null
+        },
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "capcutapp",
+            "capcut_vn"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2084963116723654713",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "action-movie",
+      "curator_notes": "Estilo não nomeado.",
+      "open_on_x": "https://x.com/NVTDanh/status/2084963116723654713"
     },
     {
       "id": "048",
       "day": 48,
       "variant": null,
       "slug": "048",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-06",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2085321824913825793/img/tLEUvutsaBAnKudK.jpg",
+      "style_name": "Same as day 28",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "The battle between justice and the invaders. Villagers vs. pirates. The Full Episode.",
+      "creator_notes": "Generated images with Midjourney v7 on @Flovaai_Japan.",
+      "tools": [
+        {
+          "name": "Seedance 2.0 Fast",
+          "handles": [
+            "Flovaai"
+          ],
+          "role": null
+        },
+        {
+          "name": "Midjourney v7",
+          "handles": [
+            "Flovaai_Japan"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2085322156150604267",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "tartakovsky",
+      "curator_notes": "Estilo declarado como o do dia 28 (Genndy Tartakovsky, cf. dia 32).",
+      "open_on_x": "https://x.com/NVTDanh/status/2085322156150604267"
     },
     {
       "id": "049",
       "day": 49,
       "variant": null,
       "slug": "049",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-07",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2085683625161539584/img/Qv4y6Tp-Yxt0X2c4.jpg",
+      "style_name": "Black-and-white ink illustration + Tim Burton-inspired proportions",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "A mysterious cowboy... What is he doing here? What town is this?",
+      "creator_notes": "It all feels funny on the surface, but something tells me this town is hiding more than it wants you to see. Here's a short opening scene from the show.",
+      "tools": [
+        {
+          "name": "Seedance 2.0 Fast",
+          "handles": [
+            "itsPolloAI",
+            "polloai_creator"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2085685132640583950",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "burton-ink",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2085685132640583950"
     },
     {
       "id": "050",

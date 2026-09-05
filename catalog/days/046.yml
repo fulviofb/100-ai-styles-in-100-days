@@ -2,17 +2,26 @@ id: "046"
 day: 46
 variant: null
 slug: "046"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-04"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2084598927421235200/img/v6gxvQlW7wXYkKnv.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: Pen-and-ink sketch
   prompt_published: null
-logline: null
+logline: Still the Boy Commander… but this time, he's fighting an impossible battle to protect the last stronghold.
 creator_notes: null
-tools: []
+tools:
+  - name: Seedance 2.0
+    handles:
+      - wavespeed_ai
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2084599801740714452
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
+  style_family: pen-ink
   notes: null

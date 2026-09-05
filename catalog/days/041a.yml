@@ -1,0 +1,27 @@
+id: "041a"
+day: 41
+variant: a
+slug: "041a"
+source_review: reviewed
+copy_policy: link_only
+date_utc: "2026-07-30"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2083008829181341697/img/TGQzc16wP4JjyCK_.jpg
+poster_source: x_video_thumb
+style:
+  name: Needle-felt art style
+  prompt_published: null
+logline: No storyboard. No keyframes. Just one reference image and an endless underwater journey.
+creator_notes: MiniMax H3 keeps the adventure flowing.
+tools:
+  - name: MiniMax H3
+    handles:
+      - Hailuo_AI
+inspiration: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2083011011519627554
+    embed: true
+    source_review: reviewed
+curator:
+  style_family: needle-felt
+  notes: Day 41.5

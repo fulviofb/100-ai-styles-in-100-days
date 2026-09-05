@@ -2,17 +2,30 @@ id: "049"
 day: 49
 variant: null
 slug: "049"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-07"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2085683625161539584/img/Qv4y6Tp-Yxt0X2c4.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: Black-and-white ink illustration + Tim Burton-inspired proportions
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: A mysterious cowboy... What is he doing here? What town is this?
+creator_notes: >-
+  It all feels funny on the surface, but something tells me this town is
+  hiding more than it wants you to see. Here's a short opening scene from
+  the show.
+tools:
+  - name: Seedance 2.0 Fast
+    handles:
+      - itsPolloAI
+      - polloai_creator
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2085685132640583950
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
+  style_family: burton-ink
   notes: null

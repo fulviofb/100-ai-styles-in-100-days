@@ -2,17 +2,40 @@ id: "041"
 day: 41
 variant: null
 slug: "041"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-07-30"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2082786962109526016/img/9-Z1bCnti-DByQrM.jpg
+poster_source: x_video_thumb
 style:
-  name: null
-  prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+  name: "..."
+  prompt_published: >-
+    Ghibli-inspired hand-painted animation, soft watercolor textures, warm
+    golden-hour lighting, whimsical adventure, cinematic composition, lush
+    natural environments, expressive animation, smooth camera movement,
+    feature animation quality
+logline: MiniMaxH3 feels like a kite soaring high in the sky. You can't help but reach for it.
+creator_notes: First experience with HailuoAI / MiniMax H3 early access. 7000-character prompt.
+tools:
+  - name: MiniMax H3
+    handles:
+      - Hailuo_AI
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2082787311818010979
+    embed: true
+    source_review: reviewed
+  - role: prompt
+    post_url: https://x.com/NVTDanh/status/2082788789718556963
+    embed: true
+    source_review: reviewed
+    note: Long prompt (kite chase) no reply. Bloco copiavel veio do campo Style desse reply.
+  - role: midjourney_sheets
+    post_url: https://x.com/NVTDanh/status/2082818385457680869
+    embed: true
+    source_review: reviewed
+    note: MJ v7 images on HailuoAI
 curator:
-  style_family: null
-  notes: null
+  style_family: ghibli-handpainted
+  notes: O post-heroi nao nomeia o estilo; o reply publica o bloco Ghibli.

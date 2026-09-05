@@ -2,17 +2,27 @@ id: "038"
 day: 38
 variant: null
 slug: "038"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-07-27"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2081668642601877504/img/XpxJLFOi0flFuSfp.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: A stylized low-poly illustration blended with multiple artistic styles
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: Episode 1 — Two muscular fishermen battle over a giant great white shark.
+creator_notes: What's the fight for? What's the giant shark underneath?
+tools:
+  - name: Seedance 2.0 Fast
+    handles:
+      - capcutapp
+      - capcut_vn
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2081698613638676484
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
+  style_family: low-poly
   notes: null

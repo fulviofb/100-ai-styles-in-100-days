@@ -2,17 +2,27 @@ id: "034"
 day: 34
 variant: null
 slug: "034"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-07-23"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2080250358878924800/img/2fuE-lHz_IrnlWbt.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: Mixed
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: Paint Boy vs. the Paper Kingdom
+creator_notes: Felt like a classic childhood game where you rescue the princess.
+tools:
+  - name: Flova
+    handles:
+      - Flovaai
+      - Flovaai_Japan
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2080250614181970430
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
+  style_family: mixed-paint
   notes: null

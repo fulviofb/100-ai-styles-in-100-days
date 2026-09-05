@@ -2,17 +2,29 @@ id: "048"
 day: 48
 variant: null
 slug: "048"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-06"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2085321824913825793/img/tLEUvutsaBAnKudK.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: Same as day 28
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: The battle between justice and the invaders. Villagers vs. pirates. The Full Episode.
+creator_notes: Generated images with Midjourney v7 on @Flovaai_Japan.
+tools:
+  - name: Seedance 2.0 Fast
+    handles:
+      - Flovaai
+  - name: Midjourney v7
+    handles:
+      - Flovaai_Japan
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2085322156150604267
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
-  notes: null
+  style_family: tartakovsky
+  notes: Estilo declarado como o do dia 28 (Genndy Tartakovsky, cf. dia 32).
