@@ -6,7 +6,7 @@ const ROLE_LABEL = {
 };
 
 async function loadCatalog() {
-  const res = await fetch("data/catalog.public.json", { cache: "no-store" });
+  const res = await fetch("data/catalog.public.json?v=3", { cache: "no-store" });
   if (!res.ok) throw new Error("Falha ao carregar o catálogo");
   return res.json();
 }
