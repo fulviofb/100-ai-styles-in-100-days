@@ -2,17 +2,36 @@ id: "073"
 day: 73
 variant: null
 slug: "073"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-30"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2094007690154622976/img/XblJkW-czQfLJbxC.jpg
+poster_source: x_video_thumb
 style:
-  name: null
-  prompt_published: null
-logline: null
-creator_notes: null
+  name: Vintage Folk Editorial Illustration
+  prompt_published: >-
+    Mid-century European storybook art, whimsical caricature, hand-painted
+    gouache, dry brush texture, rough ink lines, elongated proportions, flat
+    bold colors, imperfect handmade shapes, retro children's book illustration.
+logline: Don Quixote rides Sancho Panza's donkey into battle against a monster.
+creator_notes: >-
+  I think I'm starting to get a few ideas for what to do after my 100-day
+  journey ends.
 tools: []
-inspiration: []
-thread: []
+inspiration:
+  - type: literary
+    text: Don Quixote
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2094016026316800198
+    embed: true
+    source_review: reviewed
+  - role: midjourney_sheets
+    post_url: null
+    source_review: discovered_needs_original_review
+  - role: prompt
+    post_url: null
+    source_review: discovered_needs_original_review
 curator:
-  style_family: null
-  notes: null
+  style_family: editorial-storybook
+  notes: Post não nomeia ferramenta.

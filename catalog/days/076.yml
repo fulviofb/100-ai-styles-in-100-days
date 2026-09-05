@@ -2,17 +2,37 @@ id: "076"
 day: 76
 variant: null
 slug: "076"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-09-02"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2095108363034218496/img/JlXO58pGi0qN6w4L.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: Vietnamese Lacquer Storybook
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: A little journey through Vietnam, painted in colors of home.
+creator_notes: >-
+  Happy Vietnam National Day. No fast-paced action today, no crazy moves.
+  Just a peaceful little moment. Can you guess where this is in Vietnam?
+  I'll drop a few more videos and images that anyone can create in the
+  comments below.
+tools:
+  - name: Seedance 2.0
+    handles:
+      - dreamina_ai
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2095108534879092801
+    embed: true
+    source_review: reviewed
+  - role: midjourney_sheets
+    post_url: null
+    source_review: discovered_needs_original_review
+    note: Autor prometeu mais vídeos e imagens nos comentários — não capturados nesta leva.
+  - role: prompt
+    post_url: null
+    source_review: discovered_needs_original_review
 curator:
-  style_family: null
+  style_family: lacquer-storybook
   notes: null

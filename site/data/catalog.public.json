@@ -1275,20 +1275,50 @@
       "day": 64,
       "variant": null,
       "slug": "064",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-22",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2091092179133558784/img/PBHc0ZpgzLQGkHMQ.jpg",
+      "style_name": "5 Styles Converge",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Today, some of the representative characters and styles from my journey finally come together.",
+      "creator_notes": "And even after 100 days, there's still so much more to come. MiniMax H3 is seriously impressive for videos like this. PS: I wonder what would happen if completely different art styles appeared together in the same frame.",
+      "tools": [
+        {
+          "name": "MiniMax H3",
+          "handles": [
+            "Hailuo_AI"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2091114406839251020",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
+      "curator_style_family": "mashup",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2091114406839251020"
     },
     {
       "id": "065",
@@ -1355,20 +1385,50 @@
       "day": 68,
       "variant": null,
       "slug": "068",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-26",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2092579038581923840/img/wijpD4QJmThLlgNP.jpg",
+      "style_name": "Rustic Dark Folklore Storybook Illustration",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "The fiercest battles sometimes begin for the simplest reasons.",
+      "creator_notes": "Warrior vs. Red Demon. Here's a short glimpse of my new film. Enjoy the chaos!",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "ImagineArt_X"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2092580264476319791",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
+      "curator_style_family": "dark-folklore",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2092580264476319791"
     },
     {
       "id": "069",
@@ -1395,20 +1455,62 @@
       "day": 70,
       "variant": null,
       "slug": "070",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-27",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2092931703329468416/img/nuNnBPc2YPPzMxpU.jpg",
+      "style_name": "Stylized Mediterranean Mythic Storybook illustration",
       "style_name_extra": null,
-      "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
-      "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "prompt_published": "clean simplified shapes, expressive hand-drawn linework, painterly gouache texture, warm ivory and terracotta against deep navy and pale blue, strong Mediterranean sunlight, elegant 2D animation concept-art aesthetic",
+      "logline": "Today, he's learning to fly with his wax-and-feather wings alongside his father, Daedalus.",
+      "creator_notes": "Do you know Icarus from Greek mythology? Let's see how his first flight goes. I also made a live-action version — check it out in the comments below.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
+      "inspiration": [
+        {
+          "type": "myth",
+          "handle": null,
+          "name": null,
+          "work": null,
+          "post_url": null,
+          "quote": null,
+          "text": "Icarus and Daedalus",
+          "day": null,
+          "note": null
+        }
+      ],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2092933336679502290",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": "Versão live-action prometida nos comentários — não capturada nesta leva."
+        }
+      ],
+      "curator_style_family": "mediterranean-mythic",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2092933336679502290"
     },
     {
       "id": "071",
@@ -1455,40 +1557,116 @@
       "day": 73,
       "variant": null,
       "slug": "073",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-30",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2094007690154622976/img/XblJkW-czQfLJbxC.jpg",
+      "style_name": "Vintage Folk Editorial Illustration",
       "style_name_extra": null,
-      "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
+      "prompt_published": "Mid-century European storybook art, whimsical caricature, hand-painted gouache, dry brush texture, rough ink lines, elongated proportions, flat bold colors, imperfect handmade shapes, retro children's book illustration.",
+      "logline": "Don Quixote rides Sancho Panza's donkey into battle against a monster.",
+      "creator_notes": "I think I'm starting to get a few ideas for what to do after my 100-day journey ends.",
       "tools": [],
-      "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "inspiration": [
+        {
+          "type": "literary",
+          "handle": null,
+          "name": null,
+          "work": null,
+          "post_url": null,
+          "quote": null,
+          "text": "Don Quixote",
+          "day": null,
+          "note": null
+        }
+      ],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2094016026316800198",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
+      "curator_style_family": "editorial-storybook",
+      "curator_notes": "Post não nomeia ferramenta.",
+      "open_on_x": "https://x.com/NVTDanh/status/2094016026316800198"
     },
     {
       "id": "074",
       "day": 74,
       "variant": null,
       "slug": "074",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-31",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2094355631297986560/img/-tSV0veUZLc6VEMl.jpg",
+      "style_name": "Chibi Style",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
-      "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "logline": "First lesson for our young samurai: stay focused!",
+      "creator_notes": "Thanks @aimikoda for reminding me of this cutest style! Being a great warrior isn't just about fighting skills. Focus, patience, and meditation matter too.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "invideoOfficial"
+          ],
+          "role": null
+        }
+      ],
+      "inspiration": [
+        {
+          "type": "mention",
+          "handle": "aimikoda",
+          "name": null,
+          "work": null,
+          "post_url": null,
+          "quote": null,
+          "text": null,
+          "day": null,
+          "note": "Autor agradece o lembrete do estilo."
+        }
+      ],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2094372125985407229",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
+      "curator_style_family": "chibi",
+      "curator_notes": "Day 1 do Chibi; o dia 75a continua o treino.",
+      "open_on_x": "https://x.com/NVTDanh/status/2094372125985407229"
     },
     {
       "id": "075a",
@@ -1564,20 +1742,50 @@
       "day": 76,
       "variant": null,
       "slug": "076",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-09-02",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2095108363034218496/img/JlXO58pGi0qN6w4L.jpg",
+      "style_name": "Vietnamese Lacquer Storybook",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "A little journey through Vietnam, painted in colors of home.",
+      "creator_notes": "Happy Vietnam National Day. No fast-paced action today, no crazy moves. Just a peaceful little moment. Can you guess where this is in Vietnam? I'll drop a few more videos and images that anyone can create in the comments below.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2095108534879092801",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": "Autor prometeu mais vídeos e imagens nos comentários — não capturados nesta leva."
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
+      "curator_style_family": "lacquer-storybook",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2095108534879092801"
     },
     {
       "id": "077",
@@ -1647,20 +1855,51 @@
       "day": 78,
       "variant": null,
       "slug": "078",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-09-04",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2095835772305989632/img/k2T7nllmEY4TP7oj.jpg",
+      "style_name": "Soviet Constructivist Poster Style",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Strange buildings. Impossible roads. And an even stranger way to deliver mail — sometimes straight into thin air.",
+      "creator_notes": "Trying something a little different today. Logic doesn't really work in this city. Maybe that's the fun part. Would you live here?",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "capcut_vn",
+            "capcutapp"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2095836788531368207",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": null
+        }
+      ],
+      "curator_style_family": "constructivist",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2095836788531368207"
     },
     {
       "id": "079",

@@ -2,17 +2,36 @@ id: "064"
 day: 64
 variant: null
 slug: "064"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-22"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2091092179133558784/img/PBHc0ZpgzLQGkHMQ.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: 5 Styles Converge
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: Today, some of the representative characters and styles from my journey finally come together.
+creator_notes: >-
+  And even after 100 days, there's still so much more to come. MiniMax H3
+  is seriously impressive for videos like this. PS: I wonder what would
+  happen if completely different art styles appeared together in the same
+  frame.
+tools:
+  - name: MiniMax H3
+    handles:
+      - Hailuo_AI
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2091114406839251020
+    embed: true
+    source_review: reviewed
+  - role: midjourney_sheets
+    post_url: null
+    source_review: discovered_needs_original_review
+  - role: prompt
+    post_url: null
+    source_review: discovered_needs_original_review
 curator:
-  style_family: null
+  style_family: mashup
   notes: null
