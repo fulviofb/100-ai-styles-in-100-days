@@ -66,6 +66,7 @@ def public_day(d: dict) -> dict:
         "slug": d.get("slug") or str(d.get("id")),
         "source_review": d.get("source_review"),
         "date_utc": d.get("date_utc"),
+        "poster_url": d.get("poster_url"),
         "style_name": style.get("name"),
         "style_name_extra": style.get("name_extra"),
         "prompt_published": style.get("prompt_published"),

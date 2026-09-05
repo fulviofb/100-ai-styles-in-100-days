@@ -17,6 +17,7 @@ It does **not** relicense anyone else's work.
 - The series **100 AI Styles in 100 Days**, including videos, stills, Midjourney character sheets, loglines, style blocks, and prompts, remains the author's.
 - Quoted text is a short citation with a direct link to the original X post.
 - This project does **not** host video or image files from the series.
+- Index cards may **hotlink** the public X video poster (`pbs.twimg.com/amplify_video_thumb/...`) so a still appears immediately. The file is not copied into this repository. Takedown = delete the URL.
 - Playback, when it works, uses X's own embed. If the embed fails, the fallback is a link to the original post.
 
 ## Takedown
