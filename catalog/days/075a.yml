@@ -1,0 +1,51 @@
+id: "075a"
+day: 75
+variant: a
+slug: "075a"
+source_review: reviewed
+copy_policy: link_only
+date_utc: "2026-09-01"
+style:
+  name: Chibi Style
+  prompt_published: null
+  name_extra: (Day 2)
+logline: >-
+  Our young warrior's training continues — this time, it's all about
+  balance, focus, and staying calm under pressure.
+creator_notes: >-
+  Today, I'm not talking about the art style. This is just a short opening
+  teaser for something new I'll be using soon on @invideoOfficial.
+  This is only the beginning.
+tools:
+  - name: InVideo
+    handles:
+      - invideoOfficial
+    role: mentioned_teaser
+inspiration:
+  - type: related_day
+    day: 74
+    post_url: https://x.com/NVTDanh/status/2094372125985407229
+    note: Dia 74 (Chibi Style, Day 1), citado no post.
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2094726971607687347
+    embed: true
+    source_review: reviewed
+  - role: quote
+    post_url: https://x.com/NVTDanh/status/2094372125985407229
+    embed: true
+    source_review: reviewed
+    note: Day 74/100 — Chibi Style, Seedance 2.0 on @invideoOfficial.
+  - role: midjourney_sheets
+    post_url: null
+    source_review: discovered_needs_original_review
+    note: Pranchas deste dia não verificadas nesta leva.
+  - role: prompt
+    post_url: null
+    source_review: discovered_needs_original_review
+    note: Reply de prompt do autor não capturado nesta leva.
+curator:
+  style_family: chibi
+  notes: >-
+    Variante a do dia 75. O autor declara que neste post não discute o
+    estilo; o foco é o teaser e o treino de equilíbrio.

@@ -1,0 +1,39 @@
+id: "077"
+day: 77
+variant: null
+slug: "077"
+source_review: reviewed
+copy_policy: link_only
+date_utc: "2026-09-03"
+style:
+  name: Indian Mythic Folk Art
+  prompt_published: >-
+    Indian mythological art + folk illustration + flat geometric shapes +
+    vintage editorial/storybook
+logline: They set his tail on fire. He set the whole city on fire.
+creator_notes: Inspired by the ancient Indian epic, Ramayana.
+tools:
+  - name: Seedance 2.5
+    handles:
+      - ImagineArt_X
+      - imagineart_creo
+inspiration:
+  - type: epic
+    text: Ramayana
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2095469943508586957
+    embed: true
+    source_review: reviewed
+  - role: midjourney_sheets
+    post_url: https://x.com/NVTDanh/status/2095470162627776716
+    embed: true
+    source_review: reviewed
+    note: Reply do autor — "Midjourney images:" (quatro stills).
+  - role: prompt
+    post_url: null
+    source_review: discovered_needs_original_review
+    note: Reply de prompt do autor não capturado nesta leva.
+curator:
+  style_family: folk-mythic
+  notes: null

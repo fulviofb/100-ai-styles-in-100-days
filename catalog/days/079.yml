@@ -1,0 +1,66 @@
+id: "079"
+day: 79
+variant: null
+slug: "079"
+source_review: reviewed
+copy_policy: link_only
+date_utc: "2026-09-05"
+style:
+  name: Post-Apocalyptic Graphic Novel
+  prompt_published: >-
+    Illustration stylized post-apocalyptic graphic novel illustration,
+    angular elongated character design, sharp expressive silhouettes,
+    hand-drawn ink linework, loose sketchy outlines, simplified geometric
+    shapes, flat painterly color blocks, subtle rough brush texture, muted
+    desaturated blue-gray and earthy palette, deep navy shadows, sparse warm
+    amber highlights, restrained facial details, atmospheric retro sci-fi
+    concept art, slightly weathered printed texture, cinematic composition
+logline: A man, a dog, and a bunker they were never meant to find.
+creator_notes: >-
+  Inspired by the visuals in @Dyyaiworker videos, snowstorms, bunkers, and
+  another story that randomly popped into my head — secret underground
+  shelters built by nations for the end of the world, stocked with everything
+  needed to survive.
+tools:
+  - name: Seedance 2.5
+  - name: Seedance 2.0
+  - name: CapCut
+    handles:
+      - capcut_vn
+      - capcutapp
+inspiration:
+  - type: x_post
+    handle: Dyyaiworker
+    name: Dyyhoang
+    work: WHITEOUT
+    post_url: https://x.com/Dyyaiworker/status/2094086262659715324
+    quote: >-
+      WHITEOUT
+
+      I built the whole thing around two people who never see each other,
+      never share a frame, and trust each other completely anyway.
+  - type: theme
+    text: snowstorms, bunkers, secret underground shelters
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2096192870755819891
+    embed: true
+    source_review: reviewed
+  - role: quote
+    post_url: https://x.com/Dyyaiworker/status/2094086262659715324
+    embed: true
+    source_review: reviewed
+  - role: midjourney_sheets
+    post_url: null
+    embed: true
+    source_review: discovered_needs_original_review
+    note: >-
+      Follow-up "Midjourney images:" visível no perfil do autor (pranchas
+      do homem e do cão). URL canônica não capturada nesta leva.
+  - role: prompt
+    post_url: null
+    source_review: discovered_needs_original_review
+    note: Reply de prompt do autor não capturado nesta leva.
+curator:
+  style_family: graphic-novel
+  notes: null
