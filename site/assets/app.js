@@ -6,7 +6,7 @@ const ROLE_LABEL = {
 };
 
 async function loadCatalog() {
-  const res = await fetch("data/catalog.public.json?v=8", { cache: "no-store" });
+  const res = await fetch("data/catalog.public.json?v=9", { cache: "no-store" });
   if (!res.ok) throw new Error("Falha ao carregar o catálogo");
   return res.json();
 }
@@ -232,6 +232,12 @@ function escapeAttr(s) {
 async function boot() {
   try {
     const catalog = await loadCatalog();
+    const n = filledDays(catalog).length;
+    const tag = document.getElementById("tagline");
+    if (tag) {
+      const rest = catalog.tagline || "art styles para copiar — ilustração, animação, folk, HQ";
+      tag.textContent = `${n} ${rest}`;
+    }
     renderGallery(catalog);
     renderTicks(catalog);
     renderIndexes(catalog);

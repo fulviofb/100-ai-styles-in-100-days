@@ -92,11 +92,8 @@ def main() -> int:
         days.append(public_day(data))
     days.sort(key=lambda d: (int(d["day"] or 0), str(d.get("variant") or "")))
     payload = {
-        "affiliation": "unofficial",
-        "disclaimer": (
-            "Índice não-oficial de 100 AI Styles in 100 Days, de ToaiDanh (@NVTDanh). "
-            "Sem afiliação. A obra está no X."
-        ),
+        "public_title": series.get("public_title") or "Técnicas de Art Style",
+        "tagline": series.get("tagline") or "",
         "creator": series.get("creator"),
         "title": series.get("title"),
         "planned_days": series.get("planned_days", 100),
