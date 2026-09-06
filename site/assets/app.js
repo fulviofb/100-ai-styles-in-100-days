@@ -6,7 +6,7 @@ const ROLE_LABEL = {
 };
 
 async function loadCatalog() {
-  const res = await fetch("data/catalog.public.json?v=9", { cache: "no-store" });
+  const res = await fetch("data/catalog.public.json?v=10", { cache: "no-store" });
   if (!res.ok) throw new Error("Falha ao carregar o catálogo");
   return res.json();
 }
@@ -77,9 +77,8 @@ function renderGallery(catalog) {
     a.className = "card";
     a.href = `dia.html?id=${encodeURIComponent(d.id)}`;
     a.innerHTML = `
-      ${still(d.poster_url, d.style_name)}
-      <div class="scrim"></div>
-      <div class="meta">
+      <div class="still">${still(d.poster_url, d.style_name)}</div>
+      <div class="body">
         <div class="n">Dia ${escapeHtml(String(d.id))}</div>
         <h2>${escapeHtml(d.style_name || "sem nome")}</h2>
         <p>${escapeHtml(d.logline || "")}</p>
@@ -88,7 +87,7 @@ function renderGallery(catalog) {
     const actions = document.createElement("div");
     actions.className = "actions";
     actions.appendChild(copyButton(d.prompt_published));
-    a.appendChild(actions);
+    a.querySelector(".body").appendChild(actions);
     root.appendChild(a);
   }
 }
