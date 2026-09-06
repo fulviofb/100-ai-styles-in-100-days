@@ -1,18 +1,32 @@
 id: "007"
 day: 7
-variant: null
 slug: "007"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-06-26"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2070475664030117888/img/Xf0LDuHdOze5iY3A.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: "Digital Oil Painting"
   prompt_published: null
-logline: null
+logline: "Dance with me through endless worlds."
 creator_notes: null
-tools: []
+tools:
+  - name: Midjourney
+    handles:
+      - midjourney
+  - name: Dreamina
+    handles:
+      - dreamina_ai
+  - name: CapCut
+    handles:
+      - capcutapp
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2070476898225066239
+    embed: true
+    source_review: reviewed
 curator:
   style_family: null
   notes: null

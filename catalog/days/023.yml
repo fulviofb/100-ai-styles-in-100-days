@@ -1,18 +1,31 @@
 id: "023"
 day: 23
-variant: null
 slug: "023"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-07-12"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2076260538506723328/img/EKwAbcquTfUBEmTj.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: "Mixed"
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: "The apocalypse has always been one of humanity's greatest obsessions."
+creator_notes: >-
+  Here's a short excerpt from my upcoming film.
+tools:
+  - name: Dreamina
+    handles:
+      - dreamina_ai
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2076261491846926510
+    embed: true
+    source_review: reviewed
+  - role: midjourney_sheets
+    post_url: https://x.com/NVTDanh/status/2076264030843662771
+    embed: true
+    source_review: reviewed
 curator:
   style_family: null
   notes: null

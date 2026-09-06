@@ -15,200 +15,455 @@
       "day": 1,
       "variant": null,
       "slug": "001",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-06-20",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2068261728794935296/img/vKLi7u5221a44Cnk.jpg",
+      "style_name": "Anime",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Starting with Anime.",
+      "creator_notes": "100 AI videos. 100 different styles. I'd love to learn from your feedback.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [],
+          "role": null
+        },
+        {
+          "name": "CapCut",
+          "handles": [
+            "capcutapp"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2068262545564344698",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2068262545564344698"
     },
     {
       "id": "002",
       "day": 2,
       "variant": null,
       "slug": "002",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-06-21",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2068619858846285824/img/MenZafmSg40-lhSw.jpg",
+      "style_name": "Vietnamese folk-art inspired style",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "The Adventure of Cricket Men. One careless joke. One life-changing mistake.",
+      "creator_notes": "What would you do if you could undo a mistake from your past?",
+      "tools": [
+        {
+          "name": "Dreamina",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        },
+        {
+          "name": "CapCut",
+          "handles": [
+            "capcutapp"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2068622663384457599",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2068622663384457599"
     },
     {
       "id": "003",
       "day": 3,
       "variant": null,
       "slug": "003",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-06-22",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2069006404866998272/img/Y8740qBbEdUEvuyY.jpg",
+      "style_name": "LEGO",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Brazil vs France. The FIFA World Cup Final at Trong Dong Stadium, Vietnam.",
+      "creator_notes": "Reimagined entirely in LEGO bricks with AI.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [],
+          "role": null
+        },
+        {
+          "name": "CapCut",
+          "handles": [],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2069007247691350330",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2069007247691350330"
     },
     {
       "id": "004",
       "day": 4,
       "variant": null,
       "slug": "004",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-06-24",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2069749021720096768/img/8KUt0U1q8pRK4q9x.jpg",
+      "style_name": "Minimalist Cozy Slice-of-Life Illustration",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "I traveled far. Only to realize... Home was always waiting for me.",
+      "creator_notes": "Image source: sref 4045170015",
+      "tools": [
+        {
+          "name": "Dreamina",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        },
+        {
+          "name": "CapCut",
+          "handles": [
+            "capcutapp"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2069751039037939914",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2069751039037939914"
     },
     {
       "id": "005",
       "day": 5,
       "variant": null,
       "slug": "005",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-06-23",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2069377608245194753/img/UOkpJ3WTw1fgKlQN.jpg",
+      "style_name": "Warm Scandinavian Folk Illustration",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "She is autumn in the shape of a little girl.",
+      "creator_notes": "Children's storybook style.",
+      "tools": [
+        {
+          "name": "Dreamina",
+          "handles": [],
+          "role": null
+        },
+        {
+          "name": "CapCut",
+          "handles": [],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2069380643616866346",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2069380643616866346"
     },
     {
       "id": "006",
       "day": 6,
       "variant": null,
       "slug": "006",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-06-25",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2070106777920888832/img/0A2vhP02XVG6KUVM.jpg",
+      "style_name": "Dark Medieval Fantasy",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Leave before sunset.",
+      "creator_notes": "A mysterious Deer King appears deep within a cursed forest.",
+      "tools": [
+        {
+          "name": "Midjourney",
+          "handles": [
+            "midjourney"
+          ],
+          "role": null
+        },
+        {
+          "name": "Dreamina",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        },
+        {
+          "name": "CapCut",
+          "handles": [
+            "capcutapp"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2070107081894764809",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2070107081894764809"
     },
     {
       "id": "007",
       "day": 7,
       "variant": null,
       "slug": "007",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-06-26",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2070475664030117888/img/Xf0LDuHdOze5iY3A.jpg",
+      "style_name": "Digital Oil Painting",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "Dance with me through endless worlds.",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Midjourney",
+          "handles": [
+            "midjourney"
+          ],
+          "role": null
+        },
+        {
+          "name": "Dreamina",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        },
+        {
+          "name": "CapCut",
+          "handles": [
+            "capcutapp"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2070476898225066239",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2070476898225066239"
     },
     {
       "id": "008",
       "day": 8,
       "variant": null,
       "slug": "008",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-06-28",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2071187160431300608/img/0cxnV4C3G0io9oXu.jpg",
+      "style_name": "Stylized 3D Storybook",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "The greatest race isn't against others. It's against the person you were yesterday.",
+      "creator_notes": "Image references: --sref 557989624",
+      "tools": [
+        {
+          "name": "Midjourney",
+          "handles": [
+            "midjourney"
+          ],
+          "role": null
+        },
+        {
+          "name": "Dreamina",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        },
+        {
+          "name": "CapCut",
+          "handles": [
+            "capcutapp"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2071189976952545567",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2071189976952545567"
     },
     {
       "id": "009",
       "day": 9,
       "variant": null,
       "slug": "009",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-06-27",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2070818056520294400/img/xSBjjugEPXgutcDF.jpg",
+      "style_name": "Pixar style",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Children will always be children. Family will always be home.",
+      "creator_notes": "The post is labeled Day 8; chronology places it as day 9.",
+      "tools": [
+        {
+          "name": "Midjourney",
+          "handles": [
+            "midjourney"
+          ],
+          "role": null
+        },
+        {
+          "name": "Dreamina",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        },
+        {
+          "name": "CapCut",
+          "handles": [
+            "capcutapp"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2070818415351300199",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
-      "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "curator_notes": "Post diz Day 8; URL veio como segundo 8. Fichado como 9.",
+      "open_on_x": "https://x.com/NVTDanh/status/2070818415351300199"
     },
     {
       "id": "010",
       "day": 10,
       "variant": null,
       "slug": "010",
-      "source_review": "empty",
-      "date_utc": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-06-29",
       "poster_url": null,
-      "style_name": null,
+      "style_name": "Stylized Military Concept Art",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "I don't like war, but I'm deeply fascinated by history.",
+      "creator_notes": "Inspired by @whorange__. --sref 2824473958",
+      "tools": [
+        {
+          "name": "Midjourney",
+          "handles": [
+            "midjourney"
+          ],
+          "role": null
+        },
+        {
+          "name": "Kinovi",
+          "handles": [
+            "kinovi_ai"
+          ],
+          "role": null
+        },
+        {
+          "name": "CapCut",
+          "handles": [
+            "capcutapp"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2071548325153960347",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2071548325153960347"
     },
     {
       "id": "011",
@@ -457,260 +712,474 @@
       "day": 16,
       "variant": null,
       "slug": "016",
-      "source_review": "empty",
-      "date_utc": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-05",
       "poster_url": null,
-      "style_name": null,
+      "style_name": "Mixed",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Created with Showrunner IOS app.",
+      "creator_notes": "Huge thanks to @whorange__ for introducing me to this app.",
+      "tools": [
+        {
+          "name": "Showrunner",
+          "handles": [],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2073725325767299131",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2073725325767299131"
     },
     {
       "id": "017",
       "day": 17,
       "variant": null,
       "slug": "017",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-06",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2073695385009430529/img/t2GqQ3esU2YPdPAH.jpg",
+      "style_name": "Claymation Art",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "A fearless little knight. A tiny dragon with zero firepower.",
+      "creator_notes": "What starts as an epic duel quickly turns into the most awkward battle ever...",
+      "tools": [
+        {
+          "name": "Kinovi",
+          "handles": [
+            "kinovi_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2074087210580852843",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2074087210580852843"
     },
     {
       "id": "018",
       "day": 18,
       "variant": null,
       "slug": "018",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-07",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2074455843626684416/img/24ABVFh-Ui1aqA13.jpg",
+      "style_name": "Paper-Craft Illustration",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "The world doesn't need more gentle-looking heroes. It needs more people who look tough... but choose to protect something fragile.",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Kinovi",
+          "handles": [
+            "kinovi_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2074456007326191654",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2074456007326191654"
     },
     {
       "id": "019",
       "day": 19,
       "variant": null,
       "slug": "019",
-      "source_review": "empty",
-      "date_utc": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-08",
       "poster_url": null,
-      "style_name": null,
+      "style_name": "Gothic Monolith",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "What if an unknown entity could control the entire world... through the thoughts of just one person?",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Kinovi",
+          "handles": [
+            "kinovi_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2074814503259079113",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2074814503259079113"
     },
     {
       "id": "020",
       "day": 20,
       "variant": null,
       "slug": "020",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-09",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2075176172544307200/img/xpq1fC3U_R6rDkN2.jpg",
+      "style_name": "Stylized 3D Animated Feature Film",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "My first time creating a fast-paced action sequence like this.",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Pollo",
+          "handles": [
+            "itsPolloAI",
+            "polloai_creator"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2075176433119560114",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2075176433119560114"
     },
     {
       "id": "021",
       "day": 21,
       "variant": null,
       "slug": "021",
-      "source_review": "empty",
-      "date_utc": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-10",
       "poster_url": null,
-      "style_name": null,
+      "style_name": "Painterly Cinematic Concept Art",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Inspired by Vietnamese traditional dance.",
+      "creator_notes": "Created to thank the @dreamina_ai team.",
+      "tools": [
+        {
+          "name": "Dreamina",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2075537247026463152",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2075537247026463152"
     },
     {
       "id": "022",
       "day": 22,
       "variant": null,
       "slug": "022",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-11",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2075900555508207616/img/HyggorT74Ay-Zbzj.jpg",
+      "style_name": "Anime Cinematic Style",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Who do you think is the real monster in this room?",
+      "creator_notes": "Inspired by @whorange__ sref",
+      "tools": [
+        {
+          "name": "Dreamina",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2075901626766991747",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2075901626766991747"
     },
     {
       "id": "023",
       "day": 23,
       "variant": null,
       "slug": "023",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-12",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2076260538506723328/img/EKwAbcquTfUBEmTj.jpg",
+      "style_name": "Mixed",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "The apocalypse has always been one of humanity's greatest obsessions.",
+      "creator_notes": "Here's a short excerpt from my upcoming film.",
+      "tools": [
+        {
+          "name": "Dreamina",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2076261491846926510",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "midjourney_sheets",
+          "post_url": "https://x.com/NVTDanh/status/2076264030843662771",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2076261491846926510"
     },
     {
       "id": "024",
       "day": 24,
       "variant": null,
       "slug": "024",
-      "source_review": "empty",
-      "date_utc": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-13",
       "poster_url": null,
-      "style_name": null,
+      "style_name": "Mixed",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "Would you watch a film that blends different artistic styles in a single scene?",
+      "creator_notes": "Created entirely with the Showrunner app on iOS.",
+      "tools": [
+        {
+          "name": "Showrunner",
+          "handles": [
+            "fableshowrunner"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2076623891771032006",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2076623891771032006"
     },
     {
       "id": "025",
       "day": 25,
       "variant": null,
       "slug": "025",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-14",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2076982704919470080/img/T8-B6LCL8YjWA0MS.jpg",
+      "style_name": "Mid-Century Modern Editorial Illustration, Geometric Character Design",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "Fatman vs. Supersis!",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Dreamina",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2076988829806875099",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2076988829806875099"
     },
     {
       "id": "026",
       "day": 26,
       "variant": null,
       "slug": "026",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-15",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2077355952257593344/img/MQBtAYjl56OPoEvy.jpg",
+      "style_name": "Stylized Japanese anime concept art",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "A world without color... Maybe it was never an accident.",
+      "creator_notes": "If everyone is forced to be black and white... Who has the right to decide who is good... and who is evil?",
+      "tools": [
+        {
+          "name": "Dreamina",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2077356073598468562",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2077356073598468562"
     },
     {
       "id": "027",
       "day": 27,
       "variant": null,
       "slug": "027",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-16",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2077711811114356736/img/nmnxLyI_Atc1ocSH.jpg",
+      "style_name": "Cartoon Saloon",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "Today, let's explore the enchanting European storybook art style with a red-haired fairy-tale girl.",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Dreamina",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2077712470714769914",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2077712470714769914"
     },
     {
       "id": "028",
       "day": 28,
       "variant": null,
       "slug": "028",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-17",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2078075832267124736/img/FNG6rcMnrLyVivHL.jpg",
+      "style_name": "Genndy Tartakovsky's style",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "The clash between pirates and tribal warriors has always been a timeless theme.",
+      "creator_notes": "First chapter of this animated short film.",
+      "tools": [
+        {
+          "name": "WaveSpeed",
+          "handles": [
+            "wavespeed_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2078075956711784474",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
       "curator_style_family": null,
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2078075956711784474"
     },
     {
       "id": "029",

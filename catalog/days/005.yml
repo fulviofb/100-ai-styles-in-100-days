@@ -1,18 +1,26 @@
 id: "005"
 day: 5
-variant: null
 slug: "005"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-06-23"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2069377608245194753/img/UOkpJ3WTw1fgKlQN.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: "Warm Scandinavian Folk Illustration"
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: "She is autumn in the shape of a little girl."
+creator_notes: >-
+  Children's storybook style.
+tools:
+  - name: Dreamina
+  - name: CapCut
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2069380643616866346
+    embed: true
+    source_review: reviewed
 curator:
   style_family: null
   notes: null

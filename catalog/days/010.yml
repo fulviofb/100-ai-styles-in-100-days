@@ -1,18 +1,32 @@
 id: "010"
 day: 10
-variant: null
 slug: "010"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-06-29"
+poster_url: null
 style:
-  name: null
+  name: "Stylized Military Concept Art"
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: "I don't like war, but I'm deeply fascinated by history."
+creator_notes: >-
+  Inspired by @whorange__. --sref 2824473958
+tools:
+  - name: Midjourney
+    handles:
+      - midjourney
+  - name: Kinovi
+    handles:
+      - kinovi_ai
+  - name: CapCut
+    handles:
+      - capcutapp
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2071548325153960347
+    embed: true
+    source_review: reviewed
 curator:
   style_family: null
   notes: null

@@ -1,18 +1,27 @@
 id: "026"
 day: 26
-variant: null
 slug: "026"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-07-15"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2077355952257593344/img/MQBtAYjl56OPoEvy.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: "Stylized Japanese anime concept art"
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: "A world without color... Maybe it was never an accident."
+creator_notes: >-
+  If everyone is forced to be black and white... Who has the right to decide who is good... and who is evil?
+tools:
+  - name: Dreamina
+    handles:
+      - dreamina_ai
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2077356073598468562
+    embed: true
+    source_review: reviewed
 curator:
   style_family: null
   notes: null

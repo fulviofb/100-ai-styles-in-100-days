@@ -1,18 +1,33 @@
 id: "008"
 day: 8
-variant: null
 slug: "008"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-06-28"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2071187160431300608/img/0cxnV4C3G0io9oXu.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: "Stylized 3D Storybook"
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: "The greatest race isn't against others. It's against the person you were yesterday."
+creator_notes: >-
+  Image references: --sref 557989624
+tools:
+  - name: Midjourney
+    handles:
+      - midjourney
+  - name: Dreamina
+    handles:
+      - dreamina_ai
+  - name: CapCut
+    handles:
+      - capcutapp
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2071189976952545567
+    embed: true
+    source_review: reviewed
 curator:
   style_family: null
   notes: null

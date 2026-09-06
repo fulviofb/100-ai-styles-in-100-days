@@ -1,18 +1,26 @@
 id: "024"
 day: 24
-variant: null
 slug: "024"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-07-13"
+poster_url: null
 style:
-  name: null
+  name: "Mixed"
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: "Would you watch a film that blends different artistic styles in a single scene?"
+creator_notes: >-
+  Created entirely with the Showrunner app on iOS.
+tools:
+  - name: Showrunner
+    handles:
+      - fableshowrunner
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2076623891771032006
+    embed: true
+    source_review: reviewed
 curator:
   style_family: null
   notes: null

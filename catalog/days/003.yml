@@ -1,18 +1,26 @@
 id: "003"
 day: 3
-variant: null
 slug: "003"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-06-22"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2069006404866998272/img/Y8740qBbEdUEvuyY.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: "LEGO"
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: "Brazil vs France. The FIFA World Cup Final at Trong Dong Stadium, Vietnam."
+creator_notes: >-
+  Reimagined entirely in LEGO bricks with AI.
+tools:
+  - name: Seedance 2.0
+  - name: CapCut
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2069007247691350330
+    embed: true
+    source_review: reviewed
 curator:
   style_family: null
   notes: null

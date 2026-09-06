@@ -1,18 +1,33 @@
 id: "006"
 day: 6
-variant: null
 slug: "006"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-06-25"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2070106777920888832/img/0A2vhP02XVG6KUVM.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: "Dark Medieval Fantasy"
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: "Leave before sunset."
+creator_notes: >-
+  A mysterious Deer King appears deep within a cursed forest.
+tools:
+  - name: Midjourney
+    handles:
+      - midjourney
+  - name: Dreamina
+    handles:
+      - dreamina_ai
+  - name: CapCut
+    handles:
+      - capcutapp
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2070107081894764809
+    embed: true
+    source_review: reviewed
 curator:
   style_family: null
   notes: null
