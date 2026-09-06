@@ -2,17 +2,27 @@ id: "065"
 day: 65
 variant: null
 slug: "065"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-23"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2091475715015487488/img/pCoWNmHeH9LVK676.jpg
+poster_source: x_video_thumb
 style:
-  name: null
+  name: Art Nouveau Manga Fusion
   prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+logline: A deserted island. No help. No way out. Just survive.
+creator_notes: From building her first shelter to hunting deep in the jungle, every day becomes a new fight for survival.
+tools:
+  - name: Seedance 2.5
+    handles:
+      - capcutapp
+      - capcut_vn
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2091480574758388129
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
+  style_family: art-nouveau-manga
   notes: null

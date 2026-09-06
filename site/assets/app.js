@@ -6,14 +6,14 @@ const ROLE_LABEL = {
 };
 
 async function loadCatalog() {
-  const res = await fetch("data/catalog.public.json?v=11", { cache: "no-store" });
+  const res = await fetch("data/catalog.public.json?v=12", { cache: "no-store" });
   if (!res.ok) throw new Error("Falha ao carregar o catálogo");
   return res.json();
 }
 
 function filledDays(catalog) {
   return catalog.days
-    .filter((d) => d.source_review !== "empty")
+    .filter((d) => d.source_review === "reviewed")
     .sort((a, b) => Number(b.day) - Number(a.day) || String(b.variant || "").localeCompare(String(a.variant || "")));
 }
 

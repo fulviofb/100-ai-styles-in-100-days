@@ -2,17 +2,32 @@ id: "066"
 day: 66
 variant: null
 slug: "066"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-24"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2091845910800261121/img/XS15puRiGdlbT_gp.jpg
+poster_source: x_video_thumb
 style:
-  name: null
-  prompt_published: null
-logline: null
+  name: Painterly Retro Mecha
+  prompt_published: >-
+    Inspired by 1980s–90s Japanese sci-fi concept art, with crisp mechanical
+    linework, rough hand-painted textures, angular armor and a muted retro palette
+logline: World War IV. Cities have become battlefields, the skies belong to drone armies, and giant war machines are humanity's last weapons.
 creator_notes: null
-tools: []
+tools:
+  - name: Seedance 2.5
+    handles:
+      - capcut_vn
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2091846853751181717
+    embed: true
+    source_review: reviewed
+  - role: prompt
+    post_url: null
+    source_review: discovered_needs_original_review
+    note: Prompt 1 e 2 no fio; URLs nao capturadas.
 curator:
-  style_family: null
+  style_family: retro-mecha
   notes: null

@@ -1679,20 +1679,36 @@
       "day": 40,
       "variant": null,
       "slug": "040",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-07-29",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2082432342304673792/img/oLaRo3pi0ihf4x-T.jpg",
+      "style_name": "Stylized Digital Painting",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
+      "logline": "Fantasy battles and epic action sequences set against grand, breathtaking backdrops always give us a sense of excitement.",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Seedance 2.0 Fast",
+          "handles": [
+            "dreamina_ai"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2082433708574064891",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "digital-painting",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2082433708574064891"
     },
     {
       "id": "041",
@@ -2782,60 +2798,128 @@
       "day": 65,
       "variant": null,
       "slug": "065",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-23",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2091475715015487488/img/pCoWNmHeH9LVK676.jpg",
+      "style_name": "Art Nouveau Manga Fusion",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "logline": "A deserted island. No help. No way out. Just survive.",
+      "creator_notes": "From building her first shelter to hunting deep in the jungle, every day becomes a new fight for survival.",
+      "tools": [
+        {
+          "name": "Seedance 2.5",
+          "handles": [
+            "capcutapp",
+            "capcut_vn"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2091480574758388129",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "art-nouveau-manga",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2091480574758388129"
     },
     {
       "id": "066",
       "day": 66,
       "variant": null,
       "slug": "066",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-24",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2091845910800261121/img/XS15puRiGdlbT_gp.jpg",
+      "style_name": "Painterly Retro Mecha",
       "style_name_extra": null,
-      "prompt_published": null,
-      "logline": null,
+      "prompt_published": "Inspired by 1980s–90s Japanese sci-fi concept art, with crisp mechanical linework, rough hand-painted textures, angular armor and a muted retro palette",
+      "logline": "World War IV. Cities have become battlefields, the skies belong to drone armies, and giant war machines are humanity's last weapons.",
       "creator_notes": null,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Seedance 2.5",
+          "handles": [
+            "capcut_vn"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2091846853751181717",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        },
+        {
+          "role": "prompt",
+          "post_url": null,
+          "embed": false,
+          "source_review": "discovered_needs_original_review",
+          "note": "Prompt 1 e 2 no fio; URLs nao capturadas."
+        }
+      ],
+      "curator_style_family": "retro-mecha",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2091846853751181717"
     },
     {
       "id": "067",
       "day": 67,
       "variant": null,
       "slug": "067",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-25",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2092210645974560768/img/N_lWZHS0psY1yIqF.jpg",
+      "style_name": "Stylized Chinese Folklore Animation",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
-      "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "logline": "Have you ever watched a Jiangshi movie?",
+      "creator_notes": "Thanks @jimmythesaul for inspiring me to explore this genre.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "ImagineArt_X"
+          ],
+          "role": null
+        }
+      ],
+      "inspiration": [
+        {
+          "type": "mention",
+          "handle": "jimmythesaul",
+          "name": null,
+          "work": null,
+          "post_url": null,
+          "quote": null,
+          "text": null,
+          "day": null,
+          "note": null
+        }
+      ],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2092211509451485239",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "chinese-folklore",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2092211509451485239"
     },
     {
       "id": "068",
@@ -2892,7 +2976,7 @@
       "day": 69,
       "variant": null,
       "slug": "069",
-      "source_review": "empty",
+      "source_review": "inaccessible",
       "date_utc": null,
       "poster_url": null,
       "style_name": null,
@@ -2904,7 +2988,7 @@
       "inspiration": [],
       "thread": [],
       "curator_style_family": null,
-      "curator_notes": null,
+      "curator_notes": "Nenhum post Day 69/100 encontrado na serie.",
       "open_on_x": "https://x.com/NVTDanh"
     },
     {
@@ -2974,40 +3058,85 @@
       "day": 71,
       "variant": null,
       "slug": "071",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-28",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2093229171208249344/img/cZ0zJjsLLG1vntjo.jpg",
+      "style_name": "Dark Deco x Ancient Mexica",
       "style_name_extra": null,
       "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
-      "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "logline": "The Fall of the Aztecs. Ancient empires. Alien civilizations.",
+      "creator_notes": "Inspired by @byaiden_vu. Here's a short glimpse into my new show.",
+      "tools": [
+        {
+          "name": "Seedance 2.0",
+          "handles": [
+            "itsPolloAI",
+            "polloai_creator"
+          ],
+          "role": null
+        }
+      ],
+      "inspiration": [
+        {
+          "type": "mention",
+          "handle": "byaiden_vu",
+          "name": null,
+          "work": null,
+          "post_url": null,
+          "quote": null,
+          "text": null,
+          "day": null,
+          "note": null
+        }
+      ],
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2093278164726206888",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "dark-deco",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2093278164726206888"
     },
     {
       "id": "072",
       "day": 72,
       "variant": null,
       "slug": "072",
-      "source_review": "empty",
-      "date_utc": null,
-      "poster_url": null,
-      "style_name": null,
+      "source_review": "reviewed",
+      "date_utc": "2026-08-29",
+      "poster_url": "https://pbs.twimg.com/amplify_video_thumb/2093641749612945408/img/TCVkN1YxyqpbAm2O.jpg",
+      "style_name": "Stylized Low-Poly Painterly Fantasy",
       "style_name_extra": null,
-      "prompt_published": null,
-      "logline": null,
-      "creator_notes": null,
-      "tools": [],
+      "prompt_published": "faceted geometric shapes, painterly textures, stylized fantasy animation, simplified angular forms, cinematic warm-cool lighting, whimsical dark fantasy game concept art",
+      "logline": "THE FATEKEEPER is now available on the Showrunner iOS app.",
+      "creator_notes": "Watch it. Remix it. Make it yours.",
+      "tools": [
+        {
+          "name": "Showrunner",
+          "handles": [
+            "fableshowrunner"
+          ],
+          "role": null
+        }
+      ],
       "inspiration": [],
-      "thread": [],
-      "curator_style_family": null,
+      "thread": [
+        {
+          "role": "hero",
+          "post_url": "https://x.com/NVTDanh/status/2093652380311269552",
+          "embed": true,
+          "source_review": "reviewed",
+          "note": null
+        }
+      ],
+      "curator_style_family": "low-poly-painterly",
       "curator_notes": null,
-      "open_on_x": "https://x.com/NVTDanh"
+      "open_on_x": "https://x.com/NVTDanh/status/2093652380311269552"
     },
     {
       "id": "073",

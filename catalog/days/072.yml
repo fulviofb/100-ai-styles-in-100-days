@@ -2,17 +2,29 @@ id: "072"
 day: 72
 variant: null
 slug: "072"
-source_review: empty
+source_review: reviewed
 copy_policy: link_only
-date_utc: null
+date_utc: "2026-08-29"
+poster_url: https://pbs.twimg.com/amplify_video_thumb/2093641749612945408/img/TCVkN1YxyqpbAm2O.jpg
+poster_source: x_video_thumb
 style:
-  name: null
-  prompt_published: null
-logline: null
-creator_notes: null
-tools: []
+  name: Stylized Low-Poly Painterly Fantasy
+  prompt_published: >-
+    faceted geometric shapes, painterly textures, stylized fantasy animation,
+    simplified angular forms, cinematic warm-cool lighting, whimsical dark
+    fantasy game concept art
+logline: THE FATEKEEPER is now available on the Showrunner iOS app.
+creator_notes: Watch it. Remix it. Make it yours.
+tools:
+  - name: Showrunner
+    handles:
+      - fableshowrunner
 inspiration: []
-thread: []
+thread:
+  - role: hero
+    post_url: https://x.com/NVTDanh/status/2093652380311269552
+    embed: true
+    source_review: reviewed
 curator:
-  style_family: null
+  style_family: low-poly-painterly
   notes: null
